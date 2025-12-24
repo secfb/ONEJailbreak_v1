@@ -71,6 +71,7 @@ Device management, analysis, and customization tools.
 | **`com.straight-tamago.uiharux...`** | TrollStore tool used for customizing the iOS interface. |
 | **`iOSspeedV1.03.tipa`** | Tool that speeds up system animations and improves network. |
 | **`iOSspeed1.02.tipa`** | System speedup tool for iOS 15-18 (Alternative version). |
+| **`jailbreak-detection.ipa`** | Security tool to test if the device is jailbroken. |
 
 ## 🎮 Emulators & Game Cheats
 

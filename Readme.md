@@ -71,6 +71,7 @@ Cihaz yönetimi, analiz ve özelleştirme araçları.
 | **`com.straight-tamago.uiharux...`** | iOS arayüzünü özelleştirmek için kullanılan TrollStore aracı. |
 | **`iOSspeedV1.03.tipa`** | Sistem animasyonlarını hızlandıran ve ağ iyileştirmesi yapan araç. |
 | **`iOSspeed1.02.tipa`** | iOS 15-18 için sistem hızlandırma aracı (Alternatif sürüm). |
+| **`jailbreak-detection.ipa`** | Cihazın jailbreak'li olup olmadığını test eden güvenlik aracı. |
 
 ## 🎮 Emülatörler & Oyun Hileleri
 
